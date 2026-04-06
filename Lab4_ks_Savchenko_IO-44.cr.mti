@@ -1,0 +1,8 @@
+D:/modelsim/modelsim_ase/examples/shema_for_DDNF.v {1 {vlog -work work -nocovercells D:/modelsim/modelsim_ase/examples/shema_for_DDNF.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ddnf
+
+Top level modules:
+	Ddnf
+
+} {} {}}
